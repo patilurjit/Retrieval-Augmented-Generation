@@ -21,6 +21,5 @@ Retrieval-Augmented Generation (RAG) is a technique in natural language processi
 7. **Augmenting the prompt with context items** - The prompt is combined with the context items retrieved from the database.
 8. **Combine the retrieval augmentation and response generation** - The prompt is augmented with the retrieved items and used to generate a response.
 
-# Examples
-![Example 1](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/RAG%20Flow.jpg)
-![Example 2](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/RAG%20Flow.jpg)
+# Example
+![Example 1](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/Example%201.png)
