@@ -19,4 +19,8 @@ Retrieval-Augmented Generation (RAG) is a technique in natural language processi
 5. **Retrieve relevant passages** - Relevant passages are retrieved using the `vectorSearch` operator.
 6. **Setting up the LLM model for response generation** - The LLM chosen for response generation is Google's `gemma-2b-it`, which is the instruct version of the Gemma model with 2 billion parameters.
 7. **Augmenting the prompt with context items** - The prompt is combined with the context items retrieved from the database.
-8. **Combine the retrieval augmentation and response generation** - The prompt is augmented with the retrieved items and used to generate a response. 
+8. **Combine the retrieval augmentation and response generation** - The prompt is augmented with the retrieved items and used to generate a response.
+
+# Examples
+![Example 1](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/RAG%20Flow.jpg)
+![Example 2](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/RAG%20Flow.jpg)
