@@ -1,0 +1,13 @@
+fitz
+pymupdf
+sentence_transformers
+pymongo
+matplotlib
+numpy
+pandas
+requests
+spacy
+tqdm
+transformers
+jupyter
+wheel
