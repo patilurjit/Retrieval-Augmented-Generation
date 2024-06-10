@@ -25,3 +25,6 @@ For this project, [Human Nutrition: 2020 Edition](https://pressbooks.oer.hawaii.
 
 # Example
 ![Example 1](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/Example%201.png)
+
+# Acknowledgements
+Thank you [Daniel Bourke](https://www.youtube.com/@mrdbourke) for the excellent tutorial that guided my process of creating a RAG with my own customizations.
