@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Generation
+# Retrieval-Augmented Generation
 
 Retrieval-Augmented Generation (RAG) is a technique in natural language processing (NLP) that combines the strengths of retrieval-based and generation-based models to produce more accurate and contextually relevant responses. Here is a breakdown of RAG:
 * **Retrieval** - Fetching relevant information from a knowledge base using embeddings.
