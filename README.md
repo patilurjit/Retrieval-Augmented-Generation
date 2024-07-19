@@ -34,4 +34,4 @@ This repository houses two implementations of Retrieval Augmented Generation:
 ![Example 1](https://github.com/patilurjit/Retrieval-Augmented-Generation/blob/main/images/Example%201.png)
 
 # Acknowledgements
-Thank you [Daniel Bourke](https://www.youtube.com/@mrdbourke) for the excellent tutorial that guided my process of creating a RAG with my own customizations.
+Thank you [Daniel Bourke](https://www.youtube.com/@mrdbourke), [Greg Kamradt](https://community.fullstackretrieval.com/), and [Santiago Valdarrama](https://www.youtube.com/@underfitted) for the excellent content that guided my process of creating a RAG with my own customizations.
